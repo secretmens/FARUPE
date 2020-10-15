@@ -18,5 +18,7 @@ python3 farupee.py
 git clone https://github.com/secretmens/FARUPE
 
 cd FARUPE
+
 chmod +x *
+
 python farupee.py
