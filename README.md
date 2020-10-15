@@ -13,4 +13,4 @@ cd FARUPE
 
 chmod +x *
 
-python farupee.py
+python3 farupee.py
