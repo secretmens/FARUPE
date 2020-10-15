@@ -14,3 +14,9 @@ cd FARUPE
 chmod +x *
 
 python3 farupee.py
+# INSTALAÇÃO KALI
+git clone https://github.com/secretmens/FARUPE
+
+cd FARUPE
+chmod +x *
+python farupee.py
